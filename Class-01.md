@@ -2,8 +2,6 @@
 
 # ** Class-01 **
 
-
-
 ## Topics Discussed
 
 * Linux, Core Linux, Linux CLI
@@ -46,8 +44,11 @@
 > lo: (Can't Send packet to outside)
 * DNS NAME, QUERY (UDP Packet) DNS Resolve
 > COMMAND: $ dig facebook.com
+> 
 > $ nslookup facebook.com (Same as dig)
+> 
 > $ telnet 152.240.7.35 443 (telnet is a TCP Client)
+> 
 > $ sudo vi/etc/hosts [Domain Parking]
 
 > Note: TTL = Time to leave
