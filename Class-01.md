@@ -58,5 +58,5 @@
 * Nc NetCat Webserver
 * WireShark
 
-> COMMAND: tcpdump -i eth0 dst 69.171.250.35 443 [To see trafic]
+> COMMAND: $ tcpdump -i eth0 dst 69.171.250.35 443 [To see trafic]
 > Note: HTTPS is stateless request it closes when it's done
